@@ -1,0 +1,38 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Rajdhani", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+  
+h1 {
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 25px;
+    margin: 0;
+    pad: 20px 0;
+    color: #00539f
+    text-shadow; 3px 3px 1px black;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+html {
+    background-color:ivory
+}
+
+body {
+    width: 400px;
+    margin: 4% auto;
+    padding: 0 20px 20px 20px;
+    border: 0px solid ivory;
+}
