@@ -27,12 +27,12 @@ li {
 }
 
 html {
-    background-color:ivory
+    background-color: transparent
 }
 
 body {
     width: 400px;
     margin: 4% auto;
     padding: 0 20px 20px 20px;
-    border: 0px solid ivory;
+    border: 0px solid transparent;
 }
