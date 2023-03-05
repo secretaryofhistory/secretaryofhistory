@@ -1,8 +1,3 @@
-/* This is a JavaScript comment
-with a line break */
-
-// This is  a comment without line breaks. //
-
 const myImage = document.querySelector("img");
 
 myImage.onclick = () => {
