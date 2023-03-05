@@ -38,14 +38,14 @@ body {
 }
 
 
-scroll-container {
+#scroll-container {
 border: 3px transparent;
 border-radius: 5px;
 height: 150px;
 overflow: hidden;
 }
 
-scroll-text {
+#scroll-text {
 height: 75%;
 text-align: center;
 
