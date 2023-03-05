@@ -7,10 +7,10 @@ const myImage = document.querySelector("img");
 
 myImage.onclick = () => {
   const mySrc = myImage.getAttribute("src");
-  if (mySrc === "images/theophile-gautier.jpg") {
-    myImage.setAttribute("src", "images/de-balzac.jpg");
+  if (mySrc === "test-site/images/theophile-gautier.jpg") {
+    myImage.setAttribute("src", "test-site/images/de-balzac.jpg");
   } else {
-    myImage.setAttribute("src", "images/theophile-gautier.jpg");
+    myImage.setAttribute("src", "test-site/images/theophile-gautier.jpg");
   }
 };
 
