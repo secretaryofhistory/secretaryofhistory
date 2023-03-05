@@ -1,6 +1,6 @@
 html {
-    font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
-    font-family: "Rajdhani", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+    font-size: 20px;
+    font-family: "Rajdhani", sans-serif;
   }
 
 img {
