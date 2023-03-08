@@ -40,7 +40,7 @@ body {
 
 #scroll-container {
 border: 3px transparent;
-border-radius: 5px;
+border-radius: 10px;
 height: 150px;
 overflow: auto;
 }
@@ -54,9 +54,9 @@ text-align: center;
 -webkit-transform: translateY(100%);
 transform: translateY(100%);
 
--moz-animation: my-animation 8s linear infinite;
--webkit-animation: my-animation 8s linear infinite;
-animation: my-animation 8s linear infinite;
+-moz-animation: my-animation 7s linear infinite;
+-webkit-animation: my-animation 7s linear infinite;
+animation: my-animation 7s linear infinite;
 }
 
 /* for Firefox */
