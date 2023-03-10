@@ -1,6 +1,6 @@
 html {
     font-size: 20px;
-    font-family: "Rajdhani", sans-serif;
+    font-family: 'The Girl Next Door', cursive;
   }
 
 img {
@@ -46,7 +46,7 @@ overflow: auto;
 }
 
 #scroll-text {
-height: 75%;
+height: 50%;
 text-align: center;
 
 /* animation properties */
